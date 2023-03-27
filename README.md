@@ -1,2 +1,2 @@
 # projects
-How to build a simple statement analyzer
+Implementing a statement analyzer using python to understand customer's spending patterns for product recommendations
